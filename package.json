@@ -1,0 +1,23 @@
+{
+  "name": "onetwocss",
+  "description": "CSS framework - Beta",
+  "version": "0.0.1",
+  "keywords": [
+    "css",
+    "framework",
+    "Frontend",
+    "front-end",
+    "Web"
+  ],
+  "author": "el Ovejo",
+  "license": "MIT",
+  "main": "dist/onetwocss.min.css",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elovejo/onetwocss"
+  },
+  "bugs": {
+    "url": "https://github.com/elovejo/onetwocss/issues"
+  },
+  "homepage": "https://github.com/elovejo/onetwocss"
+}
