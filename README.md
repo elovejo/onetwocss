@@ -15,7 +15,13 @@ npm install onetwocss
 Once installed, you can import the framework into your project using the following import statement:
 
 ```css
-@import "node_modules/onetwocss/onetwocss.min.css";
+@import "onetwocss/dist/onetwocss.min.css";
+```
+
+Or using a CDN:
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/onetwocss/dist/onetwocss.min.css">
 ```
 
 ## Documentation
