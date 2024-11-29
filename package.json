@@ -1,7 +1,7 @@
 {
   "name": "onetwocss",
   "description": "CSS framework - Beta",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "keywords": [
     "css",
     "framework",
@@ -19,5 +19,5 @@
   "bugs": {
     "url": "https://github.com/elovejo/onetwocss/issues"
   },
-  "homepage": "https://github.com/elovejo/onetwocss"
+  "homepage": "https://elovejo.com/onetwocss"
 }
